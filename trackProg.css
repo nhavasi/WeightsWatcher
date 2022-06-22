@@ -1,0 +1,9 @@
+header {
+  background-color: #43ac4a;
+  padding-top: 35px;
+  font-size: clamp(60px, 4vw, 150px);
+  font-weight: bold;
+  letter-spacing: -2px;
+  height: 16%;
+  text-align: center;
+}
